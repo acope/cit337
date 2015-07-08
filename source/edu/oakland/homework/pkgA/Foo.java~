@@ -1,6 +1,0 @@
-  package edu.oakland.homework.pkgA; //edu.oakland.homework.pkgA since it does not have the main it goes under homework (need to add)
-  public class Foo {
-    int a = 5;
-    protected int b = 6;
-    public int c = 7;
-  }                           
