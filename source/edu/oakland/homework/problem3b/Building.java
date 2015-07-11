@@ -1,10 +1,10 @@
   package edu.oakland.homework.problem3b;
   
   public class Building {
-   Building() {  
+   protected Building() {  
     	System.out.print("b ");  
    }//Building()
-   Building(String name) {
+   protected Building(String name) {
       this();   
       System.out.print("bn " + name);
    }//Building(String name)

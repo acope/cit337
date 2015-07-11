@@ -1,5 +1,7 @@
 package edu.oakland.helper.problem3;
 
+import edu.oakland.homework.problem3b.Building;
+/*
   class Building {
    Building() {  
     	System.out.print("b ");  
@@ -9,14 +11,15 @@ package edu.oakland.helper.problem3;
       System.out.print("bn " + name);
    }//Building(String name)
   }//class Building
-  
+*/
+
   public class House extends Building {
-   House() {  
+   private House() {  
    	System.out.print("h ");  
    }//House()
    
-   House(String name) {
-     this(); //like super();  
+   private House(String name) {
+     this();   
      System.out.print("hn " + name);
    }//House(String name)
    
