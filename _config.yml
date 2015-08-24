@@ -1,7 +1,8 @@
 # Site settings
 title: Austin Copeman
 email: contactme@austincopeman.com
-url: http://www.austincopeman.com/cit337
+url: http://www.austincopeman.com/
+page-url: http://www.austincopeman.com/cit337
 description: "Course: CIT 337 - Software Engineer and Practice; Descrition of the course and files that were a part of the course"
 
 # Color settings (hex-codes without the leading hash-tag)
