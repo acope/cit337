@@ -131,7 +131,7 @@ a:focus {
     }
 }
 
-.header {
+.intro {
     display: table;
     width: 100%;
     height: auto;
@@ -147,30 +147,30 @@ a:focus {
     -o-background-size: cover;
 }
 
-.header .header-body {
+.intro .intro-body {
     display: table-cell;
     vertical-align: middle;
 }
 
-.header .header-body .brand-heading {
+.intro .intro-body .brand-heading {
     font-size: 40px;
 }
 
-.header .header-body .header-text {
+.intro .intro-body .intro-text {
     font-size: 18px;
 }
 
 @media(min-width:767px) {
-    .header {
+    .intro {
         height: 100%;
         padding: 0;
     }
 
-    .header .header-body .brand-heading {
+    .intro .intro-body .brand-heading {
         font-size: 100px;
     }
 
-    .header .header-body .header-text {
+    .intro .intro-body .intro-text {
         font-size: 25px;
     }
 }
